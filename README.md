@@ -1,4 +1,5 @@
 # 🫀 AI-Augmented Heart Monitoring using PCG and ECG Signals
+
 This project presents a comprehensive framework for non-invasive detection of cardiovascular diseases (CVD), particularly Coronary Artery Disease (CAD), using Phonocardiogram (PCG) and Electrocardiogram (ECG) signals. The objective is to develop a reliable, low-cost diagnostic support system using signal processing and artificial intelligence (AI) techniques implemented in MATLAB.
 
 The system begins with acquisition of heart signals using digital stethoscopes and ECG sensors placed on the body, either manually or via a wearable vest. These raw signals are then preprocessed through several steps including bandpass filtering, spike noise removal, and normalization to enhance signal quality and reduce clinical noise.
